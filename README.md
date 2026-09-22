@@ -1,95 +1,70 @@
 <div align="center">
 
-<a href="https://github.com/kriyanshuchaudhary">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1200&color=2F81F7&center=true&vCenter=true&width=850&lines=Kriyanshu+Chaudhary;AI+%26+Software+Solutions+for+Modern+Businesses;Building+Intelligent+Digital+Solutions;Software+%7C+AI+%7C+Web+%7C+Automation" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&lines=Kriyanshu+Chaudhary;AI+%26+Software+Solutions;Building+Technology+for+Modern+Businesses;India+%F0%9F%87%AE%F0%9F%87%B3+%7C+Worldwide+%F0%9F%8C%8E" alt="Animated Introduction"/>
 
-<br/>
+<br>
 
-<p>
-  <strong>AI & Software Solutions for Modern Businesses</strong>
-</p>
+<img src="https://img.shields.io/badge/AI%20%26%20Technology-Solutions-2F81F7?style=for-the-badge&logo=openai&logoColor=white" alt="AI & Technology"/>
 
-<p>
-  Building intelligent software, web applications and automation systems
-  for businesses in India 🇮🇳 and worldwide 🌎
-</p>
+<img src="https://img.shields.io/badge/Business-Technology%20Partner-111111?style=for-the-badge&logo=github&logoColor=white" alt="Business Technology Partner"/>
 
-<br/>
+<br><br>
 
 <a href="https://github.com/kriyanshuchaudhary">
-  <img src="https://komarev.com/ghpvc/?username=kriyanshuchaudhary&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=kriyanshuchaudhary&label=Profile%20Views&style=for-the-badge&color=2F81F7" alt="Profile Views"/>
 </a>
+
 <a href="https://github.com/kriyanshuchaudhary?tab=followers">
-  <img src="https://img.shields.io/github/followers/kriyanshuchaudhary?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub Followers"/>
+<img src="https://img.shields.io/github/followers/kriyanshuchaudhary?label=Followers&style=for-the-badge&color=111111" alt="Followers"/>
 </a>
+
 <a href="https://github.com/kriyanshuchaudhary">
-  <img src="https://img.shields.io/github/following/kriyanshuchaudhary?label=Following&style=for-the-badge&color=111111" alt="GitHub Following"/>
-</a>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/kriyanshuchaudhary/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://www.instagram.com/kriyanshuchaudhary/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://x.com/kriyanshuchaudh">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-</a>
-<a href="https://www.facebook.com/profile.php?id=61594682279941">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>
-<a href="mailto:kriyanshuchaudhary7889@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/github/stars/kriyanshuchaudhary?label=Stars&style=for-the-badge&color=111111" alt="Stars"/>
 </a>
 
 </div>
 
 ---
 
-## 👋 About Me
+# 👋 About Me
 
-I build **AI-powered software, web applications, automation systems, and digital products** for businesses looking to improve operations, launch new products, and scale through technology.
+> **AI & Software Solutions for Modern Businesses**
 
-My focus is on transforming **business ideas and real-world problems into practical, reliable, and scalable technology solutions**.
+I build **AI-powered software, web applications, automation systems, and digital products** for businesses in India and around the world.
 
-🌎 **Working with businesses in India and worldwide**
+My work combines **business requirements, software engineering, artificial intelligence, automation, and product development** to create practical technology solutions.
 
-🇮🇳 Based in India
-🤖 AI & Automation
-💻 Software Development
-🌐 Web Applications
-⚙️ Business Process Automation
-🚀 Digital Product Development
+🌍 **India 🇮🇳 · Worldwide 🌎**
 
 ---
 
-## 💼 What I Do
+# 💼 Services
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 AI Solutions
+## 🤖 AI Solutions
 
 * AI-powered applications
 * AI integrations
+* Custom AI solutions
+* LLM integrations
 * Intelligent workflows
 * AI automation
-* Custom AI solutions
 
 </td>
+
 <td width="50%">
 
-### 💻 Software Development
+## 💻 Software Development
 
-* Custom business software
+* Custom software
 * SaaS applications
 * Web applications
 * Backend systems
-* API development
+* REST APIs
+* System integrations
 
 </td>
 </tr>
@@ -97,24 +72,55 @@ My focus is on transforming **business ideas and real-world problems into practi
 <tr>
 <td width="50%">
 
-### 🌐 Web Solutions
+## 🌐 Web Development
 
 * Business websites
 * Web applications
 * Landing pages
 * Custom platforms
 * Digital products
+* Responsive interfaces
 
 </td>
+
 <td width="50%">
 
-### ⚙️ Automation
+## ⚙️ Business Automation
 
-* Business process automation
 * Workflow automation
+* Process automation
 * API integrations
 * Internal tools
 * Data automation
+* Business systems
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🚀 Product Development
+
+* MVP development
+* Product engineering
+* Startup solutions
+* Digital products
+* Prototyping
+* Technology consulting
+
+</td>
+
+<td width="50%">
+
+## 🔗 Integrations
+
+* Third-party APIs
+* Payment integrations
+* AI APIs
+* Business tools
+* Cloud services
+* Custom integrations
 
 </td>
 </tr>
@@ -122,189 +128,225 @@ My focus is on transforming **business ideas and real-world problems into practi
 
 ---
 
-## 🧠 Technology
+# 🧠 Technology Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,nodejs,fastapi,html,css,tailwind,postgres,mongodb,docker,git,github,linux&perline=8" />
+### 🐍 Languages
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript&perline=3" alt="Programming Languages"/>
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs&perline=5" alt="Frontend Technologies"/>
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi&perline=2" alt="Backend Technologies"/>
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb&perline=2" alt="Database Technologies"/>
+
+### ☁️ Tools & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux&perline=4" alt="Tools and Infrastructure"/>
 
 </div>
 
 ---
 
-## 🚀 How I Approach Business Problems
-
-```text
-Business Requirement
-        │
-        ▼
-   Problem Analysis
-        │
-        ▼
- Technology Strategy
-        │
-        ▼
- Design & Architecture
-        │
-        ▼
- Development
-        │
-        ▼
- AI / Automation / Integrations
-        │
-        ▼
- Testing & Deployment
-        │
-        ▼
- Scalable Digital Solution
-```
-
-I focus on building technology around **business objectives**, not simply building software for the sake of software.
-
----
-
-## 🌎 Business Focus
-
-I work on technology solutions for:
-
-* Startups
-* Small & medium businesses
-* Growing companies
-* Entrepreneurs
-* Digital-first businesses
-* International clients
-
-### 🇮🇳 India · 🌎 Worldwide
-
-Whether you're validating an idea, building an MVP, automating an existing workflow, or developing a complete digital product, the goal is to create technology that delivers practical business value.
-
----
-
-## 📊 GitHub Statistics
+# 🏗️ How I Build
 
 <div align="center">
 
-<a href="https://github.com/kriyanshuchaudhary">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kriyanshuchaudhary&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Kriyanshu's GitHub Stats"/>
-</a>
+### 💡 Idea
 
-<a href="https://github.com/kriyanshuchaudhary">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriyanshuchaudhary&layout=compact&hide_border=true&langs_count=8" alt="Top Languages"/>
-</a>
+⬇️
+
+### 🔎 Business & Problem Analysis
+
+⬇️
+
+### 🧠 Technology Strategy
+
+⬇️
+
+### 🏛️ Architecture & Design
+
+⬇️
+
+### 💻 Development
+
+⬇️
+
+### 🤖 AI & Automation
+
+⬇️
+
+### 🧪 Testing
+
+⬇️
+
+### 🚀 Deployment
+
+⬇️
+
+### 📈 Scale & Improve
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+# 🎯 Business Focus
+
+### 🏢 Who I Work With
+
+* 🚀 Startups
+* 👨‍💼 Entrepreneurs
+* 🏢 Small & Medium Businesses
+* 📈 Growing Companies
+* 💻 Digital Businesses
+* 🌎 International Clients
+
+### 🌍 Service Area
 
 <div align="center">
 
-<a href="https://github.com/kriyanshuchaudhary">
-  <img src="https://streak-stats.demolab.com?user=kriyanshuchaudhary&hide_border=true" alt="GitHub Contribution Streak"/>
-</a>
+🇮🇳 **INDIA**
+
+    **·**    
+
+🌎 **WORLDWIDE**
 
 </div>
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<a href="https://github.com/kriyanshuchaudhary">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kriyanshuchaudhary&hide_border=true&area=true" alt="GitHub Activity Graph"/>
-</a>
-
-</div>
+I focus on building **reliable, scalable and business-oriented technology solutions** rather than technology for technology's sake.
 
 ---
 
-## 🐍 Contribution Snake
+# 🔥 Current Focus
 
-<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
 
-<img src="https://raw.githubusercontent.com/kriyanshuchaudhary/kriyanshuchaudhary/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+### 🤖 AI
 
-</div>
-
-> **Note:** The snake animation requires a GitHub Action to generate the SVG. The workflow is provided below.
-
----
-
-## 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/kriyanshuchaudhary">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kriyanshuchaudhary&repo=YOUR_PROJECT_1&hide_border=true" alt="Featured Project 1"/>
-</a>
-
-<a href="https://github.com/kriyanshuchaudhary">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kriyanshuchaudhary&repo=YOUR_PROJECT_2&hide_border=true" alt="Featured Project 2"/>
-</a>
-
-</div>
-
----
-
-## 🛠️ What I'm Building
-
-```text
 AI Applications
-      +
-Business Automation
-      +
-Custom Software
-      +
-Web Platforms
-      +
-Digital Products
-      =
-Technology for Business Growth
-```
+AI Integrations
+AI Automation
+LLM Solutions
+
+</td>
+
+<td align="center" width="33%">
+
+### 💻 Software
+
+Business Software
+SaaS Products
+Web Applications
+Digital Platforms
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚙️ Automation
+
+Business Workflows
+API Integrations
+Internal Tools
+Process Automation
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🤝 Let's Work Together
-
-Have a business idea, software requirement, automation challenge, or digital product to build?
-
-I'm open to **business projects, technology partnerships, product development, and collaborations**.
+# 📊 GitHub
 
 <div align="center">
 
-<a href="mailto:kriyanshuchaudhary7889@gmail.com">
-  <img src="https://img.shields.io/badge/Business%20Inquiry-Contact%20Me-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Business Inquiry"/>
+<a href="https://github.com/kriyanshuchaudhary">
+
+<img src="https://img.shields.io/github/followers/kriyanshuchaudhary?style=for-the-badge&logo=github&logoColor=white&label=GitHub%20Followers&color=181717" alt="GitHub Followers"/>
+
+</a>
+
+<a href="https://github.com/kriyanshuchaudhary?tab=repositories">
+
+<img src="https://img.shields.io/github/stars/kriyanshuchaudhary?style=for-the-badge&logo=github&logoColor=white&label=Repository%20Stars&color=181717" alt="Repository Stars"/>
+
 </a>
 
 </div>
 
 ---
 
-## 🔗 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
+
+### 💼 Professional
 
 <a href="https://www.linkedin.com/in/kriyanshuchaudhary/">
-  <img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
+<a href="https://github.com/kriyanshuchaudhary">
+<img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br><br>
+
+### 📱 Social
+
 <a href="https://www.instagram.com/kriyanshuchaudhary/">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 <a href="https://x.com/kriyanshuchaudh">
-  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
 </a>
 
 <a href="https://www.facebook.com/profile.php?id=61594682279941">
-  <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 
+<br><br>
+
+### ✍️ Content
+
 <a href="https://kriyanshuchaudhary.blogspot.com/">
-  <img src="https://img.shields.io/badge/Blog-Read%20More-F57C00?style=for-the-badge&logo=blogger&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blog-Read%20Articles-F57C00?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/>
 </a>
+
+</div>
+
+---
+
+# 📩 Business Inquiries
+
+<div align="center">
+
+### 🤝 Have a project or business requirement?
+
+**AI · Software · Web · Automation · Digital Products**
+
+<br>
+
+<a href="mailto:kriyanshuchaudhary7889@gmail.com">
+
+<img src="https://img.shields.io/badge/Email%20Me-Business%20Inquiry-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Business Inquiry"/>
+
+</a>
+
+<br><br>
+
+📧 **[kriyanshuchaudhary7889@gmail.com](mailto:kriyanshuchaudhary7889@gmail.com)**
 
 </div>
 
@@ -312,16 +354,19 @@ I'm open to **business projects, technology partnerships, product development, a
 
 <div align="center">
 
+# 🚀 Let's Build Something Valuable
+
 ### Building with AI. Engineering with Purpose. Creating Business Value.
 
-**AI · Software · Web · Automation · Digital Solutions**
+<br>
 
-<br/>
+**🇮🇳 India · 🌎 Worldwide**
 
-📧 **[kriyanshuchaudhary7889@gmail.com](mailto:kriyanshuchaudhary7889@gmail.com)**
+<br><br>
 
-<br/><br/>
-
-⭐ **If you find my work useful, consider giving my repositories a star.**
+<img src="https://img.shields.io/badge/AI-Technology-2F81F7?style=flat-square" alt="AI"/>
+<img src="https://img.shields.io/badge/Software-Development-111111?style=flat-square" alt="Software"/>
+<img src="https://img.shields.io/badge/Web-Development-2F81F7?style=flat-square" alt="Web"/>
+<img src="https://img.shields.io/badge/Automation-Business-111111?style=flat-square" alt="Automation"/>
 
 </div>
